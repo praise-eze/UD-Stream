@@ -15,11 +15,11 @@ then after confirmation you will be automatically be redirected to the DApp
 
 ## Submission details
 
-_Project Name: Unstoppable Stream_  
-_Code Repo: https://github.com/0xPr0f/Unstoppable-Stream_  
+_Project Name: UD Stream_  
+_Code Repo: https://github.com/praise-eze/UD-Stream_  
 \_Video: https://youtu.be/8IZ7rGE74k4_  
-\_Discord ID: 0xPrōf#7686_  
-\_UD email address: 0xprofoz@gmail.com_
+\_Discord ID (no discord but telegram): @profoz_  
+\_UD email address: ozipraisegod@gmail.com_
 
 ## Testing the code
 
